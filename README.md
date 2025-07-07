@@ -10,3 +10,5 @@ Features
 - Scoring system for collected dots
 - Lives system with game over and restart on key press
 - Smooth movement with a timer-based game loop
+
+
